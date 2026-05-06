@@ -1,0 +1,9 @@
+REFLEXIÓN: IMPORTANCIA DE GIT EN PROYECTOS DE SOFTWARE
+
+Es fundamental mantener un registro de cambios con Git porque permite saber quién modificó qué y cuándo. Si algo se daña, puedo volver a una versión anterior sin perder todo el trabajo.
+
+En proyectos comunitarios como Programadores para la Paz, Git garantiza transparencia: todas las propuestas y aportes quedan registrados con nombre y fecha. Esto evita que se pierdan ideas y permite que varias personas trabajen sin pisarse el código.
+
+Además, Git facilita la colaboración remota y crea un historial que sirve como evidencia del trabajo en equipo. Sin control de versiones, los proyectos se volverían un caos y nadie sabría cuál es la versión correcta.
+
+Karen Santiago
