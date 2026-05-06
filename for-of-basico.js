@@ -1,9 +1,13 @@
-const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil"]
+console.log("=== FOR...OF BÁSICO ===");
 
-console.log("Recorrido de un array con for...of")
+const mensajes = [
+  "Reunión mañana 3pm",
+  "Verificar fuentes",
+  "Convocatoria abierta"
+];
 
-for (const comunidad of comunidades) {
-  console.log("Comunidad:", comunidad)
+for (const mensaje of mensajes) {
+  console.log("Mensaje comunitario: " + mensaje);
 }
 
-console.log("Recorrido con for...of finalizado.")
+console.log("Todos los mensajes revisados");

@@ -1,70 +1,10 @@
-Bitácora de comando – Semana 3 Día 4
+COMANDOS EJECUTADOS CLASE 14
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Comando nuevo del día:
-npm run revisar
-
-Escribe los comandos que usaste durante la práctica.
-
-1. Comando usado para clonar el repositorio:
-
-Respuesta:
-
-2. Comando usado para entrar a la carpeta del proyecto:
-
-Respuesta:
-
-3. Comando usado para crear tu rama personal:
-
-Respuesta:
-
-4. Comando usado para verificar la rama:
-
-Respuesta:
-
-5. Comando nuevo usado para ejecutar array-basico.js desde package.json:
-
-Respuesta:
-
-6. Comando usado para ejecutar for-basico.js:
-
-Respuesta:
-
-7. Comando usado para ejecutar for-of-basico.js:
-
-Respuesta:
-
-8. Comando usado para ejecutar lista-propuestas.js:
-
-Respuesta:
-
-9. Comando usado para ejecutar revision-mensajes.js:
-
-Respuesta:
-
-10. Comando usado para ejecutar revision-fuentes.js:
-
-Respuesta:
-
-11. Comando usado para ejecutar resumen-comunitario.js:
-
-Respuesta:
-
-12. Comando usado para revisar cambios en Git:
-
-Respuesta:
-
-13. Comando usado para agregar cambios:
-
-Respuesta:
-
-14. Comando usado para crear commit:
-
-Respuesta:
-
-15. Comando usado para publicar la rama:
-
-Respuesta:
+1. npm init -y
+2. npm run revisar
+3. node for-basico.js
+4. node for-of-basico.js
+5. node lista-propuestas.js
+6. node revision-mensajes.js
+7. node revision-fuentes.js
+8. node resumen-comunitario.js
