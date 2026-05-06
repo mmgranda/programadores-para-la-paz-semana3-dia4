@@ -1,47 +1,16 @@
-Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
+ARRAYS, FOR Y FOR...OF EN JAVASCRIPT
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Array: Lista ordenada de datos
+const lista = ["dato1", "dato2"];
 
-Responde con tus propias palabras.
+For tradicional: Recorre por índice
+for (let i = 0; i < lista.length; i++) {
+  console.log(lista[i]);
+}
 
-1. ¿Qué es un array en JavaScript?
+For...of: Recorre valores directo
+for (const item of lista) {
+  console.log(item);
+}
 
-Respuesta:
-
-2. ¿Para qué sirve guardar varios datos en un array?
-
-Respuesta:
-
-3. ¿Qué tipo de información comunitaria podría guardarse en un array?
-
-Respuesta:
-
-4. ¿Qué hace un for tradicional?
-
-Respuesta:
-
-5. ¿Qué representa la variable i en un for tradicional?
-
-Respuesta:
-
-6. ¿Qué significa .length?
-
-Respuesta:
-
-7. ¿Qué hace for...of?
-
-Respuesta:
-
-8. ¿Qué diferencia inicial encuentras entre for y for...of?
-
-Respuesta:
-
-9. ¿Qué hace el comando npm run revisar?
-
-Respuesta:
-
-10. ¿Cómo puede ayudar un array organizado a la participación ciudadana?
-
-Respuesta:
+Uso comunitario: Organizar propuestas, mensajes y fuentes para revisión transparente.
