@@ -1,6 +1,11 @@
-const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil"]
+console.log("=== ARRAY BÁSICO ===");
 
-console.log("Primer ejemplo de array")
-console.log("Un array permite guardar varios datos en una sola variable.")
-console.log("Comunidades registradas:")
-console.log(comunidades)
+const propuestas = [
+  "Mejorar el parque",
+  "Taller de tecnología",
+  "Biblioteca comunitaria"
+];
+
+console.log("Total propuestas: " + propuestas.length);
+console.log("Primera propuesta: " + propuestas[0]);
+console.log("Última propuesta: " + propuestas[propuestas.length - 1]);

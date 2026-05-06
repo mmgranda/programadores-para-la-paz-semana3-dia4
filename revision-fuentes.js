@@ -1,21 +1,12 @@
-const fuentes = [
-    "Página institucional",
-    "Líder comunitario",
-    "Mensaje reenviado",
-    "Documento oficial"
-  ]
-  
-  console.log("Revisión de fuentes con for tradicional:")
-  
-  for (let i = 0; i < fuentes.length; i = i + 1) {
-    console.log("Fuente", i + 1, ":", fuentes[i])
-  }
-  
-  console.log("Revisión de fuentes con for...of:")
-  
-  for (const fuente of fuentes) {
-    console.log("Fuente:", fuente)
-  }
-  
-  console.log("Revisión de fuentes finalizada.")
-  
+console.log("=== REVISIÓN DE FUENTES ===");
+
+const fuentes = ["Alcaldía", "Líder comunitario", "Universidad", "ONG local"];
+let verificadas = 0;
+
+for (let i = 0; i < fuentes.length; i++) {
+  console.log("Fuente " + (i + 1) + ": " + fuentes[i] + " - Verificada");
+  verificadas++;
+}
+
+console.log("Total fuentes: " + verificadas);
+console.log("Evitar rumores, usar datos confirmados");

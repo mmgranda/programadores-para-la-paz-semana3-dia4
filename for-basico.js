@@ -1,10 +1,9 @@
-const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil"]
+console.log("=== FOR BÁSICO ===");
 
-console.log("Recorrido de un array con for tradicional")
+const numeros = [1, 2, 3, 4, 5];
 
-for (let i = 0; i < comunidades.length; i = i + 1) {
-  console.log("Posición:", i)
-  console.log("Comunidad:", comunidades[i])
+for (let i = 0; i < numeros.length; i++) {
+  console.log("Número: " + numeros[i]);
 }
 
-console.log("Recorrido con for finalizado.")
+console.log("Recorrido completo con for");

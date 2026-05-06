@@ -1,20 +1,13 @@
+console.log("=== REVISIÓN DE MENSAJES ===");
+
 const mensajes = [
-    "Invitación a reunión comunitaria",
-    "Aviso sin fecha confirmada",
-    "Convocatoria con lugar y hora definidos",
-    "Mensaje que debe revisarse antes de publicar"
-  ]
-  
-console.log("Revisión de mensajes comunitarios con for tradicional:")
+  "Información verificada por 3 fuentes",
+  "Acuerdo aprobado en asamblea",
+  "Nueva fecha de reunión: viernes"
+];
 
-for (let i = 0; i < mensajes.length; i = i + 1) {
-  console.log("Mensaje", i + 1, ":", mensajes[i])
+for (const msg of mensajes) {
+  console.log("✓ " + msg);
 }
 
-console.log("Revisión de mensajes comunitarios con for...of:")
-
-for (const mensaje of mensajes) {
-  console.log("Mensaje:", mensaje)
-}
-
-console.log("Revisión inicial de mensajes finalizada.")
+console.log("Comunicación transparente garantizada");
