@@ -1,4 +1,4 @@
-const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil"]
+const comunidades = ["Barrio La Paz", "Comunidad Escolar", "Junta Juvenil", "Comunidad de Vecinos", "Asociación de Comerciantes"]
 
 console.log("Recorrido de un array con for...of")
 

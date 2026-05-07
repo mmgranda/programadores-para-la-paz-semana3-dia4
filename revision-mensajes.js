@@ -1,5 +1,7 @@
 const mensajes = [
     "Invitación a reunión comunitaria",
+    "Notificación de eventos importantes",
+    "Recordatorio de actividades",
     "Aviso sin fecha confirmada",
     "Convocatoria con lugar y hora definidos",
     "Mensaje que debe revisarse antes de publicar"

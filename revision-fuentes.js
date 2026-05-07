@@ -2,7 +2,9 @@ const fuentes = [
     "Página institucional",
     "Líder comunitario",
     "Mensaje reenviado",
-    "Documento oficial"
+    "Documento oficial",
+    "Publicación en redes sociales",
+    "Artículo de noticias",
   ]
   
   console.log("Revisión de fuentes con for tradicional:")

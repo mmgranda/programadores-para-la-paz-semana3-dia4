@@ -1,6 +1,6 @@
 Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
 
-Nombre del estudiante:
+Nombre del estudiante:carolina fuentes bello
 Fecha:
 Nombre de la rama:
 
@@ -8,40 +8,52 @@ Responde con tus propias palabras.
 
 1. ¿Qué es un array en JavaScript?
 
-Respuesta:
+Respuesta:Un Array en JavaScript es una estructura de datos que me
+ permite almacenar múltiples valores en una sola variable.
 
 2. ¿Para qué sirve guardar varios datos en un array?
 
-Respuesta:
+Respuesta:Guardar varios datos en un array sirve, principalmente,
+para organizar y procesar información de forma masiva en lugar de
+tratar cada dato como una pieza aislada.
 
 3. ¿Qué tipo de información comunitaria podría guardarse en un array?
 
-Respuesta:
+Respuesta:censo de vecinos, cargos del comite, zonas comunes.
 
 4. ¿Qué hace un for tradicional?
 
-Respuesta:
+Respuesta:permite repetir un bloque de código un número 
+específico de veces
 
 5. ¿Qué representa la variable i en un for tradicional?
 
-Respuesta:
+Respuesta:La variable i representa el índice o el contador del bucle.
+ Es la pieza que lleva el control de en qué "vuelta" o posición te encuentras en cada momento.
 
 6. ¿Qué significa .length?
+.length es una propiedad que te dice cuántos elementos hay dentro de un array
 
 Respuesta:
 
 7. ¿Qué hace for...of?
 
-Respuesta:
+Respuesta: El bucle for...of es la forma moderna, limpia y "fácil"
+ de recorrer arrays en JavaScript.
 
 8. ¿Qué diferencia inicial encuentras entre for y for...of?
 
-Respuesta:
+Respuesta:for tradicional: Se centra en el índice (la posición 0, 1, 2...). Para obtener el dato, tienes que pedirlo manualmente usando array[i].
+
+for...of: Se centra directamente en el valor (el dato real). JavaScript extrae el elemento y te lo entrega listo para usar en una variable.
 
 9. ¿Qué hace el comando npm run revisar?
 
-Respuesta:
+Respuesta: es un comando personalizado para ejecutar array-basico
 
 10. ¿Cómo puede ayudar un array organizado a la participación ciudadana?
 
-Respuesta:
+Respuesta:Un array organizado transforma datos sueltos
+ en información accionable. Permite que la participación ciudadana
+  pase de ser una intención a ser un sistema donde cada voz cuenta y
+   cada acción es visible para todos.
