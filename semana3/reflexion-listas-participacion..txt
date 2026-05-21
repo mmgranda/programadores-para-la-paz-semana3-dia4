@@ -1,8 +1,8 @@
 Reflexión sobre listas y participación – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angélica Tejera Utria
+Fecha: 21/05/26
+Nombre de la rama: angelica_tejera
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - lenguaje claro
 
 Respuesta:
+Organizar la información comunitaria en listas claras permite que más personas entiendan y participen activamente.
+La claridad de la información evita confusiones y facilita el seguimiento comunitario de proyectos y necesidades.
+Además, usar un lenguaje claro fortalece la confianza entre ciudadanos y líderes.
+Cuando la información es transparente y fácil de revisar, se reduce la desinformación.
+Esto ayuda a tomar mejores decisiones y a resolver problemas de manera organizada.
+Una comunidad informada trabaja con más unión, responsabilidad y participación ciudadana.
