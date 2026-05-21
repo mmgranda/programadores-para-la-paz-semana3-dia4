@@ -1,47 +1,67 @@
 Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angélica Tejera Utria
+Fecha: 21/05/26
+Nombre de la rama: angelica_tejera
 
 Responde con tus propias palabras.
 
 1. ¿Qué es un array en JavaScript?
 
-Respuesta:
+Respuesta: Es una estructura de datos que funciona como una lista ordenada.
+permite almacenar múltiples valores, dentro de una sola variable.
+ncerrándolos entre corchetes [] y separándolos por comas.
 
 2. ¿Para qué sirve guardar varios datos en un array?
 
-Respuesta:
+Respuesta:Sirve para agrupar elementos que están relacionados entre sí, lo que evita tener que crear una variable distinta para cada dato
 
 3. ¿Qué tipo de información comunitaria podría guardarse en un array?
 
-Respuesta:
+Respuesta:Los nombres de los líderes comunitarios o representantes de un barrio.
+Las propuestas de proyectos votadas por los ciudadanos.
+Las fechas de las próximas asambleas o jornadas de limpieza.
 
 4. ¿Qué hace un for tradicional?
 
-Respuesta:
+Respuesta: Es un ciclo (o bucle) que repite un bloque de código un número determinado de veces.
+Funciona bajo tres condiciones,dónde inicia, cuál es la condición para que continúe y cómo cambia el contador en cada vuelta
+(generalmente sumando de uno en uno).
 
 5. ¿Qué representa la variable i en un for tradicional?
 
-Respuesta:
+Respuesta: Representa el índice (la posición actual) del ciclo.
+En el contexto de un array, actúa como un puntero que empieza en 0
+permite acceder directamente al elemento que está en esa posición específica de la lista en cada iteración.
 
 6. ¿Qué significa .length?
 
-Respuesta:
+Respuesta: Es una propiedad de JavaScript que devuelve el número total de elementos que tiene un array (su longitud).
+Es fundamental para los ciclos porque dice exactamente cuántas vueltas debe dar el código para revisar la lista completa sin pasarse del límite.
 
 7. ¿Qué hace for...of?
 
-Respuesta:
+Respuesta: En lugar de usar contadores (i) e índices, el for of recorre el array automáticamente de principio a fin
+entregándo el valor directo de cada elemento en cada vuelta del ciclo.
 
 8. ¿Qué diferencia inicial encuentras entre for y for...of?
 
-Respuesta:
+Respuesta: La diferencia principal es la sintaxis y el control
+el for tradicional requiere que se configure manualmente el contador, la condición y el incremento.
+dando más control pero siendo más propenso a errores (como ciclos infinitos).
+El for...of es mucho más limpio, legible y automático, ya que no necesita gestionar índices ni preocuparse por el tamaño del array.
 
 9. ¿Qué hace el comando npm run revisar?
 
-Respuesta:
+Respuesta: Es un comando personalizado (un script de Node.js) definido en el archivo package.json de un proyecto.
+Por lo general, se configura para ejecutar herramientas de automatización
+para verificar que el código que trabajamos funcione correctamente y no tenga errores antes de guardarlo o subirlo.
 
 10. ¿Cómo puede ayudar un array organizado a la participación ciudadana?
 
-Respuesta:
+Respuesta: Un array organizado permite estructurar datos que de otro modo estarían dispersos.
+Al tener la información comunitaria en arrays ordenados, un sistema digital puede, por ejemplo:
+Contar votos de presupuestos participativos de manera transparente y exacta.
+Mostrar a los ciudadanos el estado en tiempo real de las solicitudes de su barrio.
+Filtrar proyectos por categorías para que las personas encuentren y apoyen fácilmente las causas que les interesan.
+
