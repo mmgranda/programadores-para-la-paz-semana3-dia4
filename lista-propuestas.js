@@ -2,11 +2,14 @@ const propuestas = [
     "Mejorar la comunicación del barrio",
     "Crear una campaña contra la desinformación",
     "Organizar una jornada de convivencia",
-    "Publicar avisos comunitarios claros"
+    "Publicar avisos comunitarios claros",
+    "Fomentar el diálogo entre vecinos",
+    "Promover actividades culturales y deportivas",
+    "Implementar un sistema de reciclaje eficiente"
   ]
   console.log("Listado de propuestas comunitarias con for tradicional:")
 
-for (let i = 0; i < propuestas.length; i = i + 1) {
+for (let i = 0; i < propuestas.length; i ++) {
   console.log("Propuesta", i + 1, ":", propuestas[i])
 }
 

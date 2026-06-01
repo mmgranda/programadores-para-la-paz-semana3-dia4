@@ -2,12 +2,16 @@ const fuentes = [
     "Página institucional",
     "Líder comunitario",
     "Mensaje reenviado",
-    "Documento oficial"
+    "Documento oficial",
+    "Redes sociales",
+    "Correo electrónico",
+    "Recomendación de un amigo",
+    "Anuncio en la calle"
   ]
   
   console.log("Revisión de fuentes con for tradicional:")
   
-  for (let i = 0; i < fuentes.length; i = i + 1) {
+  for (let i = 0; i < fuentes.length; i ++) {
     console.log("Fuente", i + 1, ":", fuentes[i])
   }
   
